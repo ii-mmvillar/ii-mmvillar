@@ -16,7 +16,7 @@ With a keen interest in front-end development, I'm constantly exploring new ways
 
 ---
 
-<h2>🎨 Tech Stack </h2>
+<h2>🛠️ Tech Stack </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
