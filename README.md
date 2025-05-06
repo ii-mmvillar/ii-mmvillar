@@ -9,9 +9,9 @@
 <h2>🧑‍💼 About Me</h2>
 
 <p>
-Hey there! I’m <strong>Micaila</strong>, a creative and detail-oriented <em>Webmaster Associate</em> at <strong>Innovamed Industries</strong>.  
-I focus on ensuring seamless website functionality, providing tech support, and improving digital workflows.  
-I enjoy crafting responsive websites and am always exploring new tools to sharpen my tech stack. 🚀
+Hi! I'm <b>Micaila</b>, currently working as a <b>Webmaster Associate</b> at <i>Innovamed Industries</i>.  
+I manage website content, maintain functionality, and provide technical support to keep digital operations running smoothly.  
+With a keen interest in front-end development, I'm constantly exploring new ways to build clean, accessible, and efficient web solutions.
 </p>
 
 ---
