@@ -6,7 +6,7 @@
 
 <hr>
 
-<h2>🧑‍💼 About Me</h2>
+<h2>👩‍💻 About Me</h2>
 
 <p>
 Hi! I'm <b>Micaila</b>, currently working as a <b>Webmaster Associate</b> at <i>Innovamed Industries</i>.  
